@@ -1,7 +1,0 @@
-{
-  "name": "shod-viz",
-  "version": "0.0.1",
-  "devDependencies": {
-    "glup": "^1.0.14"
-  }
-}
